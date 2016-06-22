@@ -15,15 +15,6 @@
 /* change this definition for the correct port */
 #define DEVICEPORT "/dev/ttyACM0"
 
-/******************************************************
-  Prepared by Avi Klausner
-  
-  Usage:
-    ./Controller
-	 
-Run 4 pre-compiled commands for car
-******************************************************/
-
 
 int main(int argc, char **argv) 
 {
